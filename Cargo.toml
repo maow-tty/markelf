@@ -1,0 +1,9 @@
+[package]
+name = "markelf"
+description = "A small program for embedding a string into the unused ELF header padding"
+authors = ["Aidan Levy"]
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.68"
